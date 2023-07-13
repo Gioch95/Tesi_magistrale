@@ -1,0 +1,34 @@
+Codice di Python
+Input Video 
+Itera Frame
+Reshape (256x256)
+Funzione Qualità
+Salvataggio
+
+Dataset
+1° dataset: Camera 1,2,3
+distanza maggiore di 10 m. 
+2° dataset: Camera 4,5  
+distanza maggiore di 20 m.
+3° dataset: Camera 6,7,8,9 
+6: distanza maggiore di 10 m e minore di 20 m
+7: maggiore di 20 m.
+8 e 9: minore di 10 m.
+
+Distanza
+minore di 5 metri 
+maggiore di 5 metri e minore di 10 metri
+maggiore di 10 metri e minore di 20 metri
+maggiore di 20 metri.
+
+Per il salvataggio dei frame
+ID_Distanza_Sesso_Qualità_Camera_N° Frame
+
+Template
+N° 6 template per ogni utente:
+2 frontali
+1 leggermente a dx 
+1 totalmente a dx
+1 leggermente a sx 
+1 totalmente a sx
+
