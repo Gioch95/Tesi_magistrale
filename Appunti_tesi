@@ -1,9 +1,10 @@
 Codice di Python
-Input Video 
-Itera Frame
-Reshape (256x256)
-Funzione Qualità
-Salvataggio
+1) Input Video 
+2) Itera Frame
+3) MRCNN Face Mask
+4) Reshape (256x256)
+5) Funzione Qualità
+6) Salvataggio
 
 Dataset
 1° dataset: Camera 1,2,3
